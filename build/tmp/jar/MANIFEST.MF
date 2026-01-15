@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Specification-Title: GhidraMCP
+Specification-Version: 12.1
+Specification-Vendor: Ghidra
+
